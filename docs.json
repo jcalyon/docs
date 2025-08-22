@@ -11,7 +11,7 @@
   "navigation": {
     "tabs": [
       {
-        "tab": "Guides",
+        "tab": "Beacons",
         "groups": [
           {
             "group": "Getting started",
@@ -48,7 +48,7 @@
         ]
       },
       {
-        "tab": "API reference",
+        "tab": "Notes",
         "groups": [
           {
             "group": "API documentation",
@@ -66,6 +66,22 @@
             ]
           }
         ]
+      },
+      {
+        "tab": "Steps",
+        "groups": []
+      },
+      {
+        "tab": "Flows",
+        "groups": []
+      },
+      {
+        "tab": "Kits",
+        "groups": []
+      },
+      {
+        "tab": "Views",
+        "groups": []
       }
     ],
     "global": {
@@ -119,9 +135,10 @@
   },
   "footer": {
     "socials": {
-      "x": "https://x.com/mintlify",
-      "github": "https://github.com/mintlify",
-      "linkedin": "https://linkedin.com/company/mintlify"
+      "youtube": "https://www.youtube.com/@jcalyon",
+      "github": "https://github.com/jcalyon",
+      "linkedin": "https://www.linkedin.com/in/jameylyon/",
+      "bluesky": "https://bsky.app/profile/jcalyon.bsky.social"
     }
   }
 }
